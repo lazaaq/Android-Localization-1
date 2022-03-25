@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocaleText</string>
+    <string name="action_help">تعليمات</string>
+    <string name="description">"نوجا هي عائلة من الحلويات المصنوعة من السكر أو العسل والمكسرات المحمصة (اللوز والجوز والفستق والبندق والمكاديميا شائعة) وبياض البيض المخفوق وأحيانا الفواكه المسكرة المفرومة. يتم استخدامه في مجموعة متنوعة من ألواح الحلوى والشوكولاتة. "</string>
+    <string name="nougat">باقة حلوى النوجا</string>
+    <string name="help_text">إذا كنت بحاجة إلى مساعدة، فاتصل بقسم الدعم لدينا.</string>
+    <string name="dial_log_message">لا يمكن حل التطبيق ل ACTION_DIAL Intent.</string>
+    <string name="action_language">اللغة</string>
+</resources>
